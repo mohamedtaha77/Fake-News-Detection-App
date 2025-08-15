@@ -104,7 +104,7 @@ if st.button("🔍 Predict"):
         st.markdown(f"**Category:** {label_names[pred]}")
         st.markdown(f"**Confidence:** <span style='color:green;'>{confidence}</span>", unsafe_allow_html=True)
         st.caption("Note:")
-        st.caption("- Confidence is not available for SVM. LSTM confidence is based on sigmoid output.")
+        st.caption("- Confidence is not available for SVM.")
         st.caption("- LSTM confidence is based on sigmoid output.")
 
         st.markdown(
