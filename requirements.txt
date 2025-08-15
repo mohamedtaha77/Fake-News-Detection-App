@@ -5,3 +5,5 @@ numpy
 joblib
 datasets
 nltk==3.8.1
+tensorflow==2.17.0
+keras-preprocessing==1.1.2
