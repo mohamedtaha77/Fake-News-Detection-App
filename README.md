@@ -26,7 +26,7 @@ Three models are implemented and selectable within the UI:
 ## 🔗 Live Demo
 
 Try the app live here:  
-👉 [Add your Streamlit link here]
+👉 [https://fake-news-detection-app-77.streamlit.app/]
 
 ---
 
