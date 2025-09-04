@@ -1,5 +1,5 @@
 
-# 📰 Fake News Detection Web App - Elevvo NLP Internship
+# 📰 Fake News Detection Web App
 
 This is a clean and interactive **Fake News Detector App** built with **Streamlit**.  
 It classifies news articles as either **Fake** or **Real**.
